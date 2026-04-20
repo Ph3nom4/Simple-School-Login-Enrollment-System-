@@ -20,7 +20,7 @@ CLICK CODE (GREEN)
 
 DOWNLOAD ZIP
 
-OPEN FILE DRAG THE FILE ON YOUR DESKTOP 
+OPEN Zip file DRAG THE FILE ON YOUR DESKTOP to extract 
 
 OPEN Simple-School-Login-Enrollment-System--main
 
