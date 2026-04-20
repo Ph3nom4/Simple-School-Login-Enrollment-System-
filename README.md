@@ -14,6 +14,20 @@ Enrollment System stores all data and puts into a messagebox at the end
 Course Subject System if Selected course is picked shows a specific array to match the course
 
 
+HOW TO OPEN FILE: 
+
+CLICK CODE (GREEN)
+
+DOWNLOAD ZIP
+
+OPEN FILE DRAG THE FILE ON YOUR DESKTOP 
+
+OPEN Simple-School-Login-Enrollment-System--main
+
+RIGHT CLICK ON DCITMIDT23
+
+OPEN WITH VISUAL STUDIO 
+
 
 <img width="739" height="525" alt="Create ACC" src="https://github.com/user-attachments/assets/262d8ac5-1dfd-45ec-8668-455d22e55ac9" />
 
